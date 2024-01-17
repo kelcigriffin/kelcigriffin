@@ -1,7 +1,7 @@
 <!--
 **kelcigriffin/kelcigriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # 👋 Hi, I'm Kelci! 
-she/her 
+she/her   
 📍<b>Chicago</b>  
 📧 kmgriffin89@gmail.com  
 :link: [LinkedIn](http://linkedin.com/in/kelci-griffin-b633a383)   
