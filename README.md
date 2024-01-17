@@ -1,18 +1,20 @@
 <!--
 **kelcigriffin/kelcigriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-# 👋 Hi, I'm Kelci! 
-she/her   
-📍<b>Chicago</b>  
+# Hi, I'm Kelci! 👋
+
+📍**Chicago**  
 📧 kmgriffin89@gmail.com  
 :link: [LinkedIn](http://linkedin.com/in/kelci-griffin-b633a383)   
 :computer: [GitHub](https://github.com/kelcigriffin/kelcigriffin)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### :brain: Technical Skills 
+**Languages:** Python, R, JavaScript ES6+, HTML5, CSS3, SQL, NoSQL, VBA, API/JSON   
+**Applications:** GitHub, MongoDB, MySQL, PostgreSQL, SQLite, GIT, Command Line, Terminal, Tableau, WordPress  
+**Tools:** Excel, Scikit learn, Matplotlib, Databasing, Pandas, Jupyter Notebook, SQLAlchemy ORM, Salesforce  
 
+### :mortar_board: Education
+**Professional Certificate, Data Science & Visualization** Northwestern University  
+**Bachelors of Science, Psychology** University of Georgia  
+
+### :scroll: Certificates
+**Basic Web Design** Udemy
