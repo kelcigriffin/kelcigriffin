@@ -1,4 +1,5 @@
-![Data Analyst](https://github.com/kelcigriffin/kelcigriffin/assets/69816605/dcfddd8c-e747-49af-8f80-0a8de4843780)
+![Data Analyst](https://github.com/kelcigriffin/kelcigriffin/assets/69816605/87c9005e-d218-4658-b3de-d2bee1e31886)
+
 
 <!--
 **kelcigriffin/kelcigriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
