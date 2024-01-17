@@ -1,9 +1,14 @@
-👋Hi, I'm Kelci!
-
+# 👋 Hi, I'm Kelci!
+😄 Pronouns: she/her
 <!--
-**kelcigriffin/kelcigriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-📍Chicago, Illinois
-Here are some ideas to get you started:
+**kelcigriffin/kelcigriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+📍Chicago
+
+📧 kmgriffin89@gmail.com
+
+:link: [LinkedIn](http://linkedin.com/in/kelci-griffin-b633a383) 
+
+:computer: [GitHub] (github.com/kelcigriffin)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
