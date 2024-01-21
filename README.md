@@ -12,8 +12,8 @@
 :computer: [GitHub](https://github.com/kelcigriffin/kelcigriffin)
 
 #### :brain: Technical Skills 
-**Languages:** Python, R, JavaScript ES6+, HTML5, CSS3, SQL, NoSQL, VBA, API/JSON   
-**Applications:** GitHub, MongoDB, MySQL, PostgreSQL, SQLite, GIT, Command Line, Terminal, Tableau, WordPress  
+**Languages:** Python, JavaScript ES6+, HTML5, CSS3, SQL, NoSQL, VBA, API/JSON   
+**Applications:** GitHub, MySQL, PostgreSQL, SQLite, GIT, Command Line, Terminal, WordPress  
 **Tools:** Excel, Scikit learn, Matplotlib, Databasing, Pandas, Jupyter Notebook, SQLAlchemy ORM, Salesforce  
 
 #### :mortar_board: Education
