@@ -8,7 +8,7 @@
 
 📍**Chicago**  
 📧 kmgriffin89@gmail.com  
-:link: [LinkedIn](http://linkedin.com/in/kelci-griffin-b633a383)   
+:link: [LinkedIn](http://linkedin.com/in/kelci-griffin)   
 :computer: [GitHub](https://github.com/kelcigriffin/kelcigriffin)
 
 #### :brain: Technical Skills 
