@@ -7,7 +7,6 @@
 ### Research Data Analyst, Bluhm Cardiovascular Institute
 
 📍**Chicago**  
-📧 kmgriffin89@gmail.com  
 :link: [LinkedIn](http://linkedin.com/in/kelci-griffin)   
 :computer: [GitHub](https://github.com/kelcigriffin/kelcigriffin)
 
