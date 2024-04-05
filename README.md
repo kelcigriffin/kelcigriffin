@@ -4,7 +4,7 @@
 <!--
 **kelcigriffin/kelcigriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 # Hi, I'm Kelci!
-### :woman_technologist: Research Data Analyst, Bluhm Cardiovascular Institute
+### Research Data Analyst, Bluhm Cardiovascular Institute
 
 📍**Chicago**  
 📧 kmgriffin89@gmail.com  
