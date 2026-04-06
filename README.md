@@ -12,7 +12,9 @@
 
 #### :brain: Technical Skills 
 **Languages:** Python, JavaScript, HTML5, CSS3, SQL, SQLite, NoSQL, VBA 
+
 **Applications:** VS Code, REDCap, SSMS, Databricks, PowerBI, GitHub, Excel
+
 **Tools:** Jupyter Notebook, API  
 
 #### :mortar_board: Education
