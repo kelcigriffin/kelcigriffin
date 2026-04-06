@@ -11,9 +11,9 @@
 :computer: [GitHub](https://github.com/kelcigriffin/kelcigriffin)
 
 #### :brain: Technical Skills 
-**Languages:** Python, JavaScript ES6+, HTML5, CSS3, SQL, NoSQL, VBA, API/JSON   
-**Applications:** GitHub, MySQL, PostgreSQL, SQLite, GIT, Command Line, Terminal, WordPress  
-**Tools:** Excel, Scikit learn, Matplotlib, Databasing, Pandas, Jupyter Notebook, SQLAlchemy ORM, Salesforce  
+**Languages:** Python, JavaScript, HTML5, CSS3, SQL, SQLite, NoSQL, VBA 
+**Applications:** VS Code, REDCap, SSMS, Databricks, PowerBI, GitHub, Excel
+**Tools:** Jupyter Notebook, API  
 
 #### :mortar_board: Education
 **Professional Certificate, Data Science & Visualization** Northwestern University  
