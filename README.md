@@ -11,10 +11,8 @@
 :computer: [GitHub](https://github.com/kelcigriffin/kelcigriffin)
 
 #### :brain: Technical Skills 
-**Languages:** Python, JavaScript, HTML5, CSS3, SQL, SQLite, NoSQL, VBA 
-
-**Applications:** VS Code, REDCap, SSMS, Databricks, PowerBI, GitHub, Excel
-
+**Languages:** Python, JavaScript, HTML5, CSS3, SQL, SQLite, NoSQL, VBA <br>
+**Applications:** VS Code, REDCap, SSMS, Databricks, PowerBI, GitHub, Excel <br>
 **Tools:** Jupyter Notebook, API  
 
 #### :mortar_board: Education
